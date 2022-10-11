@@ -15,10 +15,14 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
   and Submit Pull request
 
 ## Language
-  1.c
-  2.c++
+  1.C
+  <br>
+  2.C++
+    <br>
   3.Java
+    <br>
   4.JavaScript
+    <br>
 
 ## Contributing to Repo
 
