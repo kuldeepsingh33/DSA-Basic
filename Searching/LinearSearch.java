@@ -1,6 +1,9 @@
 // Linear search is a very simple search algorithm. In this type of search, a sequential search is made over all items one by one.
 //  Every item is checked and if a match is found then that particular item is returned, otherwise the search continues till the end
-//  of the data collection.
+//  of the data collection .The linear search algorithm is easy to implement and efficient in two scenarios:
+
+// When the list contains lesser elements 
+// When searching for a single element in an unordered array
 package Searching;
 
 public class LinearSearch {
