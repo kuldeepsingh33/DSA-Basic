@@ -9,7 +9,7 @@ Repeatedly check from the second point until the value is found or the interval 
  */
 package Searching;
 
-public class BinarySearch {
+public class BinarySearchWithExplanation {
     public static void main(String[] args) {
         int[] numbers = {-3, -1, 0, 4, 11, 20, 23, 25, 30, 40};
 
