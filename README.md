@@ -11,8 +11,14 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
 [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
 
 ## How to make changes in Repo
-  If you are Adding new topic make file and then add code for example - For adding  new topic linked list first make linked list file inside this file add some 
-relevent program.  
+  Inside The language Folder Give your file name as same Algo name ,Write your code or make changes
+  and Submit Pull request
+
+## Language
+  1.c
+  2.c++
+  3.Java
+  4.JavaScript
 
 ## Contributing to Repo
 
