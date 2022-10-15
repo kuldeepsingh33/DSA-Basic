@@ -9,3 +9,4 @@
 -[poseidon2060](https://github.com/poseidon2060)
 -[Varnika Bagaria](https://github.com/VarnikaB)
 -[RavishGupta](https://github.com/RavishGupta)
+-[Hritick Kumar Jha](https://github.com/hritick1)
