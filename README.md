@@ -1,5 +1,6 @@
 
-# DSA-Basic (Hacktoberfest-2022🔥)
+ <h1 align="center"># DSA-Basic (Hacktoberfest-2022🔥)</h1>
+
  ![image](https://user-images.githubusercontent.com/69143883/194773259-a00a6520-bd7f-4064-a93f-5cd1d77246e7.png)
 
 This repository is open to all members of the GitHub community. Any member may contribute to this project without being a collaborator.
@@ -11,8 +12,18 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
 [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
 
 ## How to make changes in Repo
-  If you are Adding new topic make file and then add code for example - For adding  new topic linked list first make linked list file inside this file add some 
-relevent program.  
+  Inside The language Folder Give your file name as same Algo name ,Write your code or make changes
+  and Submit Pull request
+
+## Language
+  1. [C](https://www.freecodecamp.org/news/what-is-the-c-programming-language-beginner-tutorial/)
+  
+  2. [C++](https://cplusplus.com/doc/tutorial/)
+
+  3. [Java](https://www.java.com/en/)
+
+  4. [JavaScript](https://www.javascript.com/)
+
 
 ## Contributing to Repo
 
