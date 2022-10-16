@@ -1,0 +1,29 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int LinearSearch(int* arr, int n, int key){
+    for(int i = 0; i<n; i++){
+        if(arr[i] == key){
+            return 1;
+        }
+    }
+    return 0;
+}
+
+int main(){
+    int n;
+    scanf("%d", &n);
+    int* arr;
+    arr = (int *)malloc(sizeof(int)*n);
+    for(int i = 0; i<n; i++){
+        scanf("%d", &arr[i]);
+    }
+    int key;
+    scanf("%d", &key);
+    if(LinearSearch(arr, n, key)){
+        printf("Found!\n");
+    }
+    else{
+        printf("Not Found!\n");
+    }
+}
